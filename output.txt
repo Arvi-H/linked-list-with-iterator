@@ -1,0 +1,5 @@
+Insert Groot. happy happy am I
+PrintList I am happy happy Groot. 
+Erase happy OK
+Erase dopey Not Found
+PrintList I am happy Groot. 
